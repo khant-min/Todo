@@ -1,0 +1,13 @@
+li {
+  border-bottom: 1px solid gray;
+  background-color: rgb(149, 145, 145);
+}
+
+.dark {
+  background-image: url("../img/bg-desktop-dark.jpg");
+  background-repeat: no-repeat;
+}
+.light {
+  background-image: url("../img/bg-desktop-light.jpg");
+  background-repeat: no-repeat;
+}
